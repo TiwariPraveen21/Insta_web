@@ -1,0 +1,54 @@
+abstract class AppImages {
+  static const String imageBase = "assets/image";
+  static const String leftRectangleImg = "assets/image/pannel.png";
+  static const String rightRectangleImg = "assets/image/pannel2.png";
+  static const String infoProfileLogo = "assets/image/logo.png";
+  static const String googly = "assets/image/goggle.png";
+  static const String fbImg = "assets/image/facebook.png";
+  static const String linkImg = "assets/image/linkdin.png";
+  static const String appleImg = "$imageBase/apple.png";
+  static const String runPng = "assets/image/running.png";
+  static const String appLogo = "assets/image/logo_profile.png";
+  static const String worldImg = "assets/image/world_connection.png";
+  static const String personIcon = "assets/image/iconperson.png";
+  static const String iconLink = "assets/image/iconLink.png";
+  static const String playStoreImg = "assets/image/google_play.png";
+  static const String googlePlay = "assets/image/googleplay.png";
+  static const String appsStoreImg = "assets/image/store_image.png";
+  static const String multipleProfileImg = "assets/image/background_multipleprofile.png";
+  static const String bulbImg = "assets/image/image_bulb.png";
+  static const String logoProfile = "assets/image/media.png";
+  static const String rectangularLayerImg = "assets/image/middle_right_card.png";
+  static const String downloadAppPersonImg = "$imageBase/download_available.png";
+  static const String wayImg = "assets/image/way.png";
+  static const String circularBg = "assets/image/circle_bg.png";
+  static const String copyRight = "$imageBase/copyright.png";
+  static const String rightCircularBg = "assets/image/right_circle_bg.png";
+  static const String iconVisitingCard = "assets/image/vistingcardicon.png";
+  static const String iconShareMedia = 'assets/image/sharemedia.png';
+  static const String iconMultipleProf = 'assets/image/personicon.png';
+  static const String creativeImg = '$imageBase/creative.png';
+  static const String doubleRecoverLapBg = "$imageBase/double_recover_lap_bg.png";
+  static const String doubleOverlapCircleBg = "$imageBase/double_overlap_circle_bg.png";
+  static const String rightDotRecBg = "assets/image/rightdotrec.png";
+  static const String leftDotRecBg = "assets/image/leftdotrec.png";
+  static const String mapImg = "assets/image/worldmap.png";
+  static const String mapSecBg = "assets/image/mapsecbg.png";
+  static const String infoProfFooterLogo = "assets/image/info.png";
+  static const String socialMedia = "assets/image/social.png";
+  static const String roundRec = "assets/image/roundrec.png";
+  static const String frame1 = "assets/image/frame1.png";
+  static const String frame2 = "assets/image/fram2.png";
+  static const String frame3 = "assets/image/frame3.png";
+  static const String frame4 = "assets/image/frame4.png";
+  static const String footerImg = "assets/image/footer_img.png";
+  static const String downloadAppBg = "$imageBase/download_our_app_bg.png";
+  static const String likeIcon = "assets/image/like.png";
+  static const String commentIcon = "assets/image/comment.png";
+  static const String sendIcon = "assets/image/send.png";
+  static const String reportIcon = "assets/image/report.png";
+  static const String defaultFemaleImg = "https://images.saymedia-content.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cq_auto:eco%2Cw_1200/MTk4MDQzMTI5NzY3NTM1ODA2/short-captions-for-profile-pictures.png";
+  static const String feedIMage = "https://www.freepnglogos.com/uploads/linkedin-shiny-icon-logo-5.png";
+}
+
+
